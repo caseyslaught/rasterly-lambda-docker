@@ -1,0 +1,3 @@
+boto3==1.26.155
+dask==2023.12.0
+rasterio==1.3.9 --no-binary rasterio
